@@ -1,0 +1,20 @@
+name: trees_emulator
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - cartopy=0.18.0
+  - dask=2021.10.0
+  - imageio=2.9.0
+  - ipykernel=6.15.2
+  - ipython=8.4.0
+  - matplotlib=3.5.0
+  - numpy=1.21.5
+  - pandas=1.4.1
+  - pickleshare=0.7.5
+  - python=3.8.13
+  - scikit-learn=1.0.2
+  - scipy=1.7.3
+  - shapely=1.8.4
+  - xarray=0.20.1
